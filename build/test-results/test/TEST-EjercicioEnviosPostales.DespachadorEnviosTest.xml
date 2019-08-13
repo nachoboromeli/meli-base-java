@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="EjercicioEnviosPostales.DespachadorEnviosTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-08-12T20:33:04" hostname="AR0FVFYM0YYHV2J" time="0.012">
+  <properties/>
+  <testcase name="asignarVehiculoSinMock" classname="EjercicioEnviosPostales.DespachadorEnviosTest" time="0.003"/>
+  <testcase name="crearPaqueteConPeso" classname="EjercicioEnviosPostales.DespachadorEnviosTest" time="0.001"/>
+  <testcase name="calcularCostoDeEnvioPaquete" classname="EjercicioEnviosPostales.DespachadorEnviosTest" time="0.007"/>
+  <testcase name="asignarVehiculo" classname="EjercicioEnviosPostales.DespachadorEnviosTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

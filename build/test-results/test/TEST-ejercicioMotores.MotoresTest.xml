@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ejercicioMotores.MotoresTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2019-08-12T20:33:04" hostname="AR0FVFYM0YYHV2J" time="0.049">
+  <properties/>
+  <testcase name="subirNivelPotencia" classname="ejercicioMotores.MotoresTest" time="0.04"/>
+  <testcase name="refrigerarMotorNuclear" classname="ejercicioMotores.MotoresTest" time="0.004"/>
+  <testcase name="crearMotorNuclear" classname="ejercicioMotores.MotoresTest" time="0.0"/>
+  <testcase name="crearMotorSolar" classname="ejercicioMotores.MotoresTest" time="0.001"/>
+  <testcase name="refrigerarMotorSolar" classname="ejercicioMotores.MotoresTest" time="0.0"/>
+  <testcase name="crearMotor" classname="ejercicioMotores.MotoresTest" time="0.0"/>
+  <testcase name="subirNivelTemperatura" classname="ejercicioMotores.MotoresTest" time="0.0"/>
+  <testcase name="crearMotorCombustible" classname="ejercicioMotores.MotoresTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

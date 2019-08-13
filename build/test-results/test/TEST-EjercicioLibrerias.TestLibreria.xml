@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="EjercicioLibrerias.TestLibreria" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-08-12T20:33:04" hostname="AR0FVFYM0YYHV2J" time="0.013">
+  <properties/>
+  <testcase name="AsignarAlquilerALibreria" classname="EjercicioLibrerias.TestLibreria" time="0.011"/>
+  <testcase name="AsignarAlquilerALibreriaConLibroAlquilado" classname="EjercicioLibrerias.TestLibreria" time="0.0"/>
+  <testcase name="DevolverAlquilerALibreria" classname="EjercicioLibrerias.TestLibreria" time="0.001"/>
+  <testcase name="crearNovelaConAlquiler" classname="EjercicioLibrerias.TestLibreria" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

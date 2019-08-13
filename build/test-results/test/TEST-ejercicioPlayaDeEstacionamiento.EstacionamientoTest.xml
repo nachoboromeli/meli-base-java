@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ejercicioPlayaDeEstacionamiento.EstacionamientoTest" tests="20" skipped="0" failures="0" errors="0" timestamp="2019-08-12T20:33:04" hostname="AR0FVFYM0YYHV2J" time="0.006">
+  <properties/>
+  <testcase name="AgregarUtilitarioDuplicado" classname="ejercicioPlayaDeEstacionamiento.EstacionamientoTest" time="0.0"/>
+  <testcase name="QuitarCargaInexistente" classname="ejercicioPlayaDeEstacionamiento.EstacionamientoTest" time="0.0"/>
+  <testcase name="CrearAuto" classname="ejercicioPlayaDeEstacionamiento.EstacionamientoTest" time="0.0"/>
+  <testcase name="CrearCamion" classname="ejercicioPlayaDeEstacionamiento.EstacionamientoTest" time="0.001"/>
+  <testcase name="DesestacionarAuto" classname="ejercicioPlayaDeEstacionamiento.EstacionamientoTest" time="0.001"/>
+  <testcase name="AsignarCargaUtilitarioYDespacharCargaPlaya" classname="ejercicioPlayaDeEstacionamiento.EstacionamientoTest" time="0.0"/>
+  <testcase name="CrearCarga" classname="ejercicioPlayaDeEstacionamiento.EstacionamientoTest" time="0.0"/>
+  <testcase name="CrearPlayaDeCarga" classname="ejercicioPlayaDeEstacionamiento.EstacionamientoTest" time="0.0"/>
+  <testcase name="AsignarCargaUtilitario" classname="ejercicioPlayaDeEstacionamiento.EstacionamientoTest" time="0.0"/>
+  <testcase name="EstacionarAutoNoEstacionado" classname="ejercicioPlayaDeEstacionamiento.EstacionamientoTest" time="0.0"/>
+  <testcase name="CrearEstacionamiento" classname="ejercicioPlayaDeEstacionamiento.EstacionamientoTest" time="0.0"/>
+  <testcase name="AsignarCargaDuplicada" classname="ejercicioPlayaDeEstacionamiento.EstacionamientoTest" time="0.0"/>
+  <testcase name="CrearCamioneta" classname="ejercicioPlayaDeEstacionamiento.EstacionamientoTest" time="0.0"/>
+  <testcase name="EstacionarAutoEstacionado" classname="ejercicioPlayaDeEstacionamiento.EstacionamientoTest" time="0.0"/>
+  <testcase name="QuitarUtilitarioInexistente" classname="ejercicioPlayaDeEstacionamiento.EstacionamientoTest" time="0.0"/>
+  <testcase name="AsignarCarga" classname="ejercicioPlayaDeEstacionamiento.EstacionamientoTest" time="0.0"/>
+  <testcase name="QuitarUtilitario" classname="ejercicioPlayaDeEstacionamiento.EstacionamientoTest" time="0.0"/>
+  <testcase name="CargarAuto" classname="ejercicioPlayaDeEstacionamiento.EstacionamientoTest" time="0.0"/>
+  <testcase name="QuitarCarga" classname="ejercicioPlayaDeEstacionamiento.EstacionamientoTest" time="0.0"/>
+  <testcase name="AgregarUtilitario" classname="ejercicioPlayaDeEstacionamiento.EstacionamientoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
